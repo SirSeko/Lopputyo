@@ -29,7 +29,7 @@ include_once('nav.php');
     </div>
     <div class="div4">
         <h4>Komponentit</h4>
-        <a hfref="/komponentit.php"><img src="img/ko.jpg" alt="Komponentit" id="images"/></a>
+        <a href="/komponentit.php"><img src="img/ko.jpg" alt="Komponentit" id="images"/></a>
     </div>
 </div>
 
